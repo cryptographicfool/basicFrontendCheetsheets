@@ -9,3 +9,8 @@
   * CSS3 Flexbox.
   * CSS3 Grids.
 * Bootstrap Basic.
+* JS Basics.
+  * Console
+  * DOM
+  * Working DOM
+  
